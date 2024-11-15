@@ -1,0 +1,16 @@
+.yasil {
+    background-color: gainsboro;
+    color: teal;
+    font-weight: bold;
+  }
+  
+  table {
+    border: 0px solid gainsboro;
+    text-align: center;
+    text-shadow: 1px;
+  }
+  th {
+    color: red;
+    background-color: rgb(6, 142, 110);
+  }
+  
