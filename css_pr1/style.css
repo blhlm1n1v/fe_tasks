@@ -1,0 +1,11 @@
+.card {
+  border-radius: 20px;
+  background-color: aquamarine;
+  width: fit-content;
+  overflow: hidden;
+  padding: 10px;
+}
+.header {
+  font-size: 20px;
+  font-weight: bold;
+}
